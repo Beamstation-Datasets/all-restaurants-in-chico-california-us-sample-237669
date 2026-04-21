@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3795b976-239e-444d-ab3d-3eaabbf2a7e4",
+  "export_job_id": "2352c54a-1cef-4cb6-b166-3f85fdf37c88",
   "id_short": 237669,
-  "published_at": "2026-04-17T07:44:34Z",
+  "published_at": "2026-04-21T19:13:10Z",
   "repo_name": "all-restaurants-in-chico-california-us-sample-237669",
   "sample_asset_name": "beamstation_237669_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/237669/beamstation_237669_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 21,
-  "sample_sha256": "efe8fffabfb847848684401f8756dcafa7161427e3d22996d1641f5c19867bbb",
-  "sample_size_bytes": 86571,
-  "total_records": 216
+  "sample_records": 13,
+  "sample_sha256": "5a53cc31a45317e1b672155624de4fc14ecf6ec0bed1b6e23bbfe203a24c6d6d",
+  "sample_size_bytes": 61061,
+  "total_records": 132
 }
