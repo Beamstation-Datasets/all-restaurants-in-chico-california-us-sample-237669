@@ -1,6 +1,6 @@
 # All Restaurants in Chico, California, US
 
-> Free BeamStation sample export with 21 rows and masked direct-contact fields.
+> Free BeamStation sample export with 22 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `237669` |
 | Location | Chico |
 | Category | Restaurants |
-| Full dataset size | 213 records |
-| Free sample size | 21 records (9.86%) |
-| Last export | 2026-04-28T17:27:06.088116+00:00 |
+| Full dataset size | 227 records |
+| Free sample size | 22 records (9.69%) |
+| Last export | 2026-05-06T20:14:47.761348+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-chico-california-us-sample-237669/releases/download/sample-latest/beamstation_237669_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
